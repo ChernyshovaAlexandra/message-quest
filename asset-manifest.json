@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/message-quest/static/css/main.791c47f5.chunk.css",
+    "main.js": "/message-quest/static/js/main.aabc6279.chunk.js",
+    "main.js.map": "/message-quest/static/js/main.aabc6279.chunk.js.map",
+    "runtime-main.js": "/message-quest/static/js/runtime-main.d0a375ef.js",
+    "runtime-main.js.map": "/message-quest/static/js/runtime-main.d0a375ef.js.map",
+    "static/css/2.4fc5a6bc.chunk.css": "/message-quest/static/css/2.4fc5a6bc.chunk.css",
+    "static/js/2.e5e09cb5.chunk.js": "/message-quest/static/js/2.e5e09cb5.chunk.js",
+    "static/js/2.e5e09cb5.chunk.js.map": "/message-quest/static/js/2.e5e09cb5.chunk.js.map",
+    "index.html": "/message-quest/index.html",
+    "precache-manifest.886724c2555ae3566acdbdfd6886c134.js": "/message-quest/precache-manifest.886724c2555ae3566acdbdfd6886c134.js",
+    "service-worker.js": "/message-quest/service-worker.js",
+    "static/css/2.4fc5a6bc.chunk.css.map": "/message-quest/static/css/2.4fc5a6bc.chunk.css.map",
+    "static/css/main.791c47f5.chunk.css.map": "/message-quest/static/css/main.791c47f5.chunk.css.map",
+    "static/js/2.e5e09cb5.chunk.js.LICENSE.txt": "/message-quest/static/js/2.e5e09cb5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/message-quest/static/media/bg.4fa0d1c2.jpg",
+    "static/media/persik.png": "/message-quest/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0a375ef.js",
+    "static/css/2.4fc5a6bc.chunk.css",
+    "static/js/2.e5e09cb5.chunk.js",
+    "static/css/main.791c47f5.chunk.css",
+    "static/js/main.aabc6279.chunk.js"
+  ]
+}
