@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+
+.message {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 1rem;
+    max-width: 45%;
+    margin: 0 .5rem .5rem;
+    align-self: flex-start;
+    box-shadow: 1px -1px 10px #c9cbce
+}
+
+.message.user {
+    align-self: flex-end;
+    background: #7dd3e6;
+    position: relative;
+}
